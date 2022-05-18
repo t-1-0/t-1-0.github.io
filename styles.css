@@ -1,3 +1,13 @@
-body {
-  background: orange;
+body, html {
+  margin:0;
+}
+
+.banner {
+  font-family: Poiret One;
+  text-align: center;
+  padding:2vw;
+  font-size: 5vw;
+  background-color: #a4ba98;
+  float:left;
+  width:100%;
 }
